@@ -141,6 +141,10 @@ Allow Publishers to purchase articles exclusively, semi-exclusively (e.g. "we ca
 
 Professionals like editors, photographers, etc. can use the platform for freelancing/networking.
 
+# What would make it viable
+
+If a platform like this were ever to be viable, it would need to overcome the network effect barrier. *Some* big name would need to support it and start attracting enough people to start forming network connections. If the idea is good and the implementation is sound, organic growth can take off, and the network effect can help keep people on the platform in spite of being easy by design to migrate away from. But no illusions should be held by anyone that mere technical adequacy, even excellence, is enough for a project of this sort. Any network stands or falls with its participants, and here that requires visibility. As grass-roots as possible, but at some point you'd need a famous person or media outlet with some degree of prestige to draw in a readership.
+
 # Anti-slop and anti-scam
 
 This needs a lot of thought and a lot of work. The platform must not be taken over by bots and must not be overrun with undisclosed AI slop. Privacy must be respected, but verifying real human identity is also important. Research should be done into meaningful compromises, e.g. maybe there are government services like post offices that could provide some form of anonymised real-human verification, or maybe there are companies that (ethically, with meaningful PII protection) provide such services.
